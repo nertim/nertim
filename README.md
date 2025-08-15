@@ -1,4 +1,4 @@
-CTO @ Stealth Startup. Building the future of investing.
+CTO @ [Plutus](https://www.runplutus.com). Building the future of investing.
 
 📫 Send me a message on GitHub or via [linkedin](https://linkedin.com/in/mitren)
 
